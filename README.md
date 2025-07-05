@@ -1,12 +1,38 @@
-- 👋 Hi, I’m @Chiragnaskar88
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Chirag Naskar
 
-<!---
-Chiragnaskar88/Chiragnaskar88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Electronics & Telecommunication Engineer  
+Data Engineer Intern at Go Digital Technology Consulting  
+Passionate about Data Engineering, Big Data, and Scalable Data Pipelines  
+Currently learning: Apache Spark, Kafka, Hadoop, Cloud (AWS/GCP), and Real-Time Data Processing
+
+---
+
+## Tech Stack & Tools
+
+- **Languages**: Python, SQL, C  
+- **Data Tools**: Apache Spark, Hadoop  
+- **Databases**: MySQL, Oracle SQL  
+- **Cloud Platforms**: AWS (Basics), GCP (in-progress)  
+- **Other Tools**: Git, Linux, VS Code, Tableau
+
+---
+
+## Currently Working On
+
+- Designing and building scalable ETL pipelines  
+- Real-time streaming data applications using Kafka & Spark Streaming  
+- Exploring data lake architectures and cloud-based solutions  
+- Enhancing communication and collaboration skills for real-world projects
+
+---
+
+## Let's Connect
+
+- Email: [chiragnaskar03@gmail.com](mailto:chiragnaskar03@gmail.com)  
+- LinkedIn: [linkedin.com/in/chirag-naskar](https://www.linkedin.com/in/chirag-naskar/)  
+- GitHub: [github.com/Chirag-Naskar](https://github.com/Chirag-Naskar)
+
+---
+
+
+Thanks for visiting.
